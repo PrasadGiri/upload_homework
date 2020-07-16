@@ -1,4 +1,4 @@
-package com.apnatimeayega.com.uploadhomework;
+package com.apnatimeayega.uploadhomework;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

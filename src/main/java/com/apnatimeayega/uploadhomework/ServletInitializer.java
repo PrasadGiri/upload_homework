@@ -1,4 +1,4 @@
-package com.apnatimeayega.com.uploadhomework;
+package com.apnatimeayega.uploadhomework;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
